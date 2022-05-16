@@ -1,0 +1,42 @@
+#menu{
+	position: relative;
+	background-color: #F3F4F6;
+	border-bottom: solid black;
+}
+#menu li{
+	margin: 1px;
+	padding: 1px;
+	width: 1600px;
+}
+#menu li a{
+	color: black;
+	text-decoration: none;
+	font-size: 40px;	
+}
+head nav li a .nb{
+	width: 400px;
+	height: 400px;
+}
+nav li{
+	display: inline-block;
+	list-style-type: none;
+	padding: 0px 10px;
+}
+body{
+	 background: #F3F4F6;
+	 padding: 0px 30px;
+	 height: 100px;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}
+body div li{
+	margin: 0px 0px;
+}
+body div{
+	background-color: white;
+	width: %;
+	height: %;
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+}
