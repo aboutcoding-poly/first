@@ -1,0 +1,39 @@
+/* header */
+header {
+  width: 100%;
+  height: 150px;
+}
+
+header .title {
+  display: flex;
+  width: 100%;
+  height: 150px;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Anton';
+  font-size: 46px;
+}
+
+header .title2 {
+  padding: 8px;
+  border: 5px;
+  margin: 10px;
+  border-style: groove;
+  border-color: black;
+  position: fixed;
+  top: 5px;
+  right: 10px;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+header a{
+  text-decoration: none;
+}
+a:visited{
+  color: black;
+}
+a:hover{
+  color: red;
+}
